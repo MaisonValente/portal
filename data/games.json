@@ -1,0 +1,34 @@
+[
+  {
+    "id": "astral-surge",
+    "name": "Astral Surge",
+    "platform": "iOS • Android",
+    "description": "Um rogue-lite espacial com controles tácteis e feedback háptico imersivo.",
+    "link": "https://testflight.apple.com/join/astralsurge",
+    "status": "Beta fechado"
+  },
+  {
+    "id": "luminous-veil",
+    "name": "Luminous Veil",
+    "platform": "iOS",
+    "description": "Quebre enigmas de luz em um thriller narrativo sobre IA e consciência.",
+    "link": "https://testflight.apple.com/join/luminousveil",
+    "status": "Beta aberto"
+  },
+  {
+    "id": "orb-weaver",
+    "name": "Orb Weaver",
+    "platform": "Android",
+    "description": "Construa redes de energia viva em realidade aumentada com gestos.",
+    "link": "https://play.google.com/store/apps/details?id=orbweaver",
+    "status": "Disponível"
+  },
+  {
+    "id": "zenith-rift",
+    "name": "Zenith Rift",
+    "platform": "iOS • Android",
+    "description": "Experiência meditativa multissensorial sincronizada com wearables.",
+    "link": "https://testflight.apple.com/join/zenithrift",
+    "status": "Inscrições"
+  }
+]
