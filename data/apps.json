@@ -1,0 +1,34 @@
+[
+  {
+    "id": "aurora-sync",
+    "name": "Aurora Sync",
+    "platform": "iOS",
+    "description": "Sincronize seus wearables cognitivos com o ecossistema Aurelion.",
+    "link": "https://testflight.apple.com/join/aurorasync",
+    "status": "Beta"
+  },
+  {
+    "id": "pulse-lens",
+    "name": "Pulse Lens",
+    "platform": "Android",
+    "description": "Visualize dados biônicos com camadas de realidade expandida.",
+    "link": "https://play.google.com/store/apps/details?id=pulselens",
+    "status": "Disponível"
+  },
+  {
+    "id": "synapse-journal",
+    "name": "Synapse Journal",
+    "platform": "iOS • Android",
+    "description": "Diário inteligente com insights preditivos para otimizar o fluxo mental.",
+    "link": "https://testflight.apple.com/join/synapsejournal",
+    "status": "Convites"
+  },
+  {
+    "id": "harmonic-hub",
+    "name": "Harmonic Hub",
+    "platform": "Web",
+    "description": "Controle central da casa sensorial com automações aurais.",
+    "link": "https://auraelyum.com/harmonic",
+    "status": "Preview"
+  }
+]
